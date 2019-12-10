@@ -16,8 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          What's up?????????????
         </a>
+        <h2>Waaasssuuup??</h2>
       </header>
     </div>
   );
